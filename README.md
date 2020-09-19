@@ -1,10 +1,11 @@
 # Applied-Data-Science-Capstone-Project
 ## Sentiment Analysis on the IMDB Movies Database ##
-This capstone project will give you a taste of what data scientists go through in real life when working with data. 
-It uses the IMDB Movies review data. This project demonstrates about how to 
+This capstone project is to understnad the various paradigm involved in Sentiment Analyiis of texts.
+In a largely online world Sentiment analysis has become an important tool to understand the user/ buyers sentiment towards a movie /video / product .
+In an attempt to learn this I am using the IMDB Movies review data. This project demonstrates about how to 
 - Prepare Data for Sentiment Analysis
-- Builds a sentiment classifier 
-- Evaluates the polarity of text
+- Use basic techniques to builds a sentiment analyser  
+- Evaluate the polarity of text as negative or positive
 
 ## Getting The Data ##
 
