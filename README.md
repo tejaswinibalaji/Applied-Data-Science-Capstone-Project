@@ -22,7 +22,7 @@ This can also be downloaded from: http://ai.stanford.edu/~amaas/data/sentiment/a
 Tensorflow
 Keras
 
-## Itroduction to the Model ##
+## Introduction to the Model ##
 Long short-term memory is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data.
 
 
