@@ -8,8 +8,8 @@ The process of computationally identifying and categorizing opinions expressed i
 
 In an attempt to learn this I am using the IMDB Movies review data. This project demonstrates about how to 
 - Prepare Data for Sentiment Analysis
-- Use basic techniques to builds a sentiment analyser  
-- Evaluate the polarity of text as negative or positive
+- Use LSTM techniques to build a sentiment analyser  
+- Plot the output of prediction
 
 ## Getting The Data ##
 
